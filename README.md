@@ -52,7 +52,7 @@ Customer-Churn-Analysis/
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Customer_churn_analysis/Screenshot/Screenshot 2026-01-16 161012.png)
 
 ---
 
